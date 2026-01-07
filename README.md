@@ -1,2 +1,2 @@
-# printing-in-a-tabular-document
+# printing_in_a_tabular_document
 1Cnik
